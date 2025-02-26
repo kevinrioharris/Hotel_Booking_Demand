@@ -10,7 +10,7 @@ st.set_page_config(page_title="Data Visualization", layout="wide", page_icon="ðŸ
 st.title("Data Visualization for Hotel Booking Demand")
 st.write("Explore data visualizations to gain insights into booking cancellations and key performance metrics.")
  
-df = pd.read_csv(r".\hotel_booking_cleaned.csv")
+df = pd.read_csv(r"hotel_booking_cleaned.csv")
 
 # -----------------------------
 # Booking Cancellation Distribution
