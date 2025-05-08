@@ -1,10 +1,5 @@
 # Hotel Booking Prediction
 
-Contributors:
-- Kevin Rio Harristyando
-- Theresia Diah Kusumaningrum
-- Sekar Saraswati Wibowo
-
 ## Outline
 - [Hotel Booking Cancellation Prediction](#Project-Overview) 
 - [Tableau Dashboard](#Tableau-Dashboard)
@@ -140,29 +135,26 @@ We compared the results of 6 different classification algorithms and applied 2 u
     Total Cost **After** ML: $267,150
 
 ## Tableau Dashboard
-Link : https://public.tableau.com/app/profile/gamma.team/viz/HotelBookingFinal_17405748492750/HotelBooking?publish=yes
+Tableau Dashboard Link : [Hotel Booking Demand Dashboard](https://public.tableau.com/app/profile/kevin.rio.harristyando/viz/HotelBookingDemandAnalysis_17455173950900/GuestsSegmentation)
 
-<img width="564" alt="image" src="https://github.com/user-attachments/assets/2393f404-a0cc-4076-9037-4a9285b721c6" />
-<img width="566" alt="image" src="https://github.com/user-attachments/assets/267a852b-8e88-4916-bad5-cfb957370bb2" />
-
-<img width="568" alt="image" src="https://github.com/user-attachments/assets/bceab4f8-4aaa-4e40-acf2-1c0b04fea4ce" />
-<img width="562" alt="image" src="https://github.com/user-attachments/assets/0cefa87c-4260-449b-aa24-068e0c1367d0" />
+**Screenshot**
+<img width="564" alt="image" src="https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Tableau/Homepage.jpg" />
+<img width="566" alt="image" src="https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Tableau/Guests%20Segmentation.jpg" />
+<img width="568" alt="image" src="https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Tableau/Cancellation%20Analysis.jpg" />
+<img width="562" alt="image" src="https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Tableau/Machine%20Learning%20Evaluation.jpg" />
 
 
 
 ## Streamlit Application
 Link: https://gammateamdti.streamlit.app/
-![Homepage](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Homepage.jpg)
-![Data Visualization](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Data%20viz.png)
-
-![Single Prediction](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Single%20Prediction.jpg)
-
-![Manual Batch Prediction](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Manual%20Batch%20Prediction.jpg)
-
-![Batch CSV Prediction](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Batch%20CSV%20Prediction.jpg)
+![Homepage](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Streamlit%20Photos/Homepage.jpg)
+![Data Visualization](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Streamlit%20Photos/Data%20viz.png)
+![Single Prediction](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Streamlit%20Photos/Single%20Prediction.jpg)
+![Manual Batch Prediction](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Streamlit%20Photos/Manual%20Batch%20Prediction.jpg)
+![Batch CSV Prediction](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Streamlit%20Photos/Batch%20CSV%20Prediction.jpg)
 
 ## File Directory
-- [Project notebook](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/Final_Project_Gamma_Team_Hotel_Booking_Demand_2_0.ipynb) : consisting code , explanation and visualization detail about this project
-- [Model file](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/model.pkl)
-- [Data after cleaning](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/hotel_booking_cleaned.csv)
-- [Streamlit Code](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/Homepage.py) and (https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/tree/main/pages). To run streamlit from your computer you need to check file directory of the model. then run Homepage.py from terminal
+- [Project notebook](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Hotel_Booking_Demand_Analysis.ipynb) : consisting code , explanation and visualization detail about this project
+- [Model file](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/model.pkl)
+- [Data after cleaning](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/hotel_booking_cleaned.csv)
+- [Streamlit Code](https://github.com/kevinrioharris/Hotel_Booking_Demand/tree/main/streamlit_app). To run streamlit from your computer you need to check file directory of the model. then run Homepage.py from terminal
