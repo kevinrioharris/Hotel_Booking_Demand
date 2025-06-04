@@ -120,7 +120,7 @@ if prediction_mode == "Single Prediction":
     }
     
     st.subheader("Booking Details (Input)")
-    st.table(pd.DataFrame([display_data]))
+    st.dataframe(pd.DataFrame([display_data]), use_container_width=True)
     
     if st.button("Predict Cancellation"):
         prediction = model.predict(pd.DataFrame([predict_data]))
