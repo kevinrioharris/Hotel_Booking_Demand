@@ -16,7 +16,7 @@
 In the hospitality industry, online reservations have become the norm—providing convenience for guests and broader reach for hotels. However, this shift has led to a high volume of booking cancellations, which negatively impact hotel operations and revenue. Studies have shown:
 - 19% of cancellations originate from hotel websites,
 - 39% from Booking.com,
-- 25% from Expedia over a four-month period. *(sources needed)*
+- 25% from Expedia over a four-month period.
 
 ### Why Do Guests Cancel?
 - Guests often book multiple hotels and make a final decision closer to the arrival date.
