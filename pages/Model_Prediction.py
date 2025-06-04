@@ -12,7 +12,7 @@ st.set_page_config(
 st.title("Hotel Booking Cancellation Prediction")
 st.write("Predict whether a hotel booking will be canceled based on key booking details.")
 
-model = joblib.load(r'.\model.pkl')
+model = joblib.load(r'model.pkl')
 
 df = pd.read_csv(".\hotel_booking_cleaned.csv")
 
