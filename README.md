@@ -146,7 +146,7 @@ Features:
 - 📓 [`Hotel_Booking_Demand_Analysis.ipynb`](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Hotel_Booking_Demand_Analysis.ipynb) — Main notebook with code, visualizations, and explanations.
 - 📦 [`model.pkl`](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/model.pkl) — Trained ML model.
 - 🧹 [`hotel_booking_cleaned.csv`](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/hotel_booking_cleaned.csv) — Cleaned dataset.
-- 🌐 [`streamlit_app/`](https://github.com/kevinrioharris/Hotel_Booking_Demand/tree/main/streamlit_app) — Code for the Streamlit web application.  
+- 🌐 [`streamlit_app/`](https://gammateamdti.streamlit.app/) — Code for the Streamlit web application.  
   ➤ To run locally: ensure model file path is correct, then execute `Homepage.py` via terminal.
 
 ---
