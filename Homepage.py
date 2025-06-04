@@ -39,9 +39,6 @@ This dashboard provides interactive tools and clear visualizations that help you
 
 st.markdown("""
 ---
-**Developed by Gamma Team:**
-
-- **Kevin Rio Harristyando**
-- **Theresia Diah Kusumaningrum**
-- **Sekar Saraswati Wibowo**
+**Developed by:**
+**Kevin Rio Harristyando**
 """)
