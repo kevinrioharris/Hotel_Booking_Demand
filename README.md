@@ -77,7 +77,7 @@ Understanding errors in prediction helps mitigate business risks:
 | `previous_cancellations` | Number of past canceled bookings |
 | `booking_changes` | Number of changes made to booking |
 | `deposit_type` | No Deposit, Refundable, or Non-Refundable |
-| ... | *See project notebook for full list* |
+| ... | [`See project notebook for full list`](https://github.com/kevinrioharris/Hotel_Booking_Demand/blob/main/Hotel_Booking_Demand_Analysis.ipynb) |
 
 ---
 
